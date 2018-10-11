@@ -1,0 +1,16 @@
+class_name,answer
+question-1,"Please go to working area from Address configuration config menu then click Add button on the right side of the page, after fill-up the fields with proper info then click to Save.[N.B: Need to add Division, district, Thana, Unions & Villages first to create a working area]Config -> Address configuration -> working area -> Click Add button -> fill-up the fields -> Save."
+question-2,"Please go Samity/Group menu then click Samity, click Add button on the right side of the page, after fill-up the fields with proper info then click to Save.[N.B: Field officer and working area are the pre-requisite of Creating Samity/Group]"
+question-3,"Please go to Member menu then click to Member information, then click Add button on the right side of the page, after fill-up the fields with proper info then click to Save.[N.B: Samity/Group is the pre-requisite of add member]"
+question-4,"Please go to Savings from Savings menu then click Add button on the right side of the page, after fill-up the fields with proper info then click to Save."
+question-5,"Please go to Regular Loan Accounts from Loan menu then click Add button on the right side of the page, after fill-up the fields with proper info then click to Save."
+question-6,"Please go to Auto Process from Process menu. click Action button from samity list then entry member wise collection of this day, after entry all the members collection click to Preview then Save."
+question-7,"Please go to Regular Loan transaction/Savings Deposit page from Loan/Savings Menu then click Add button on the right side of the page, after fill-up the fields with proper info then click to Save."
+question-8,"Please click Change password on the right side of the top of the page or from Admin menu, after fill-up the given fields with proper info then click to Save."
+question-9,Please go to Transaction Un-authorization from process menu to Un-authorize the wrong entry then go to Auto process or Savings deposit option then click to Edit button on Action column of the wrong transaction. After correction the wrong entries click to Save and then authorize this transaction again.[N.B: If need to correction on back dated transaction need to go on transaction date first]
+question-10,Please go to Transaction Un-authorization from process menu to Un-authorize the wrong entry then go to Auto process or Regular Loan Transaction option then click to Edit button on Action column of the wrong transaction. After correction the wrong entries click to Save and then authorize this transaction again.[N.B: If need to correction on back dated transaction need to go on transaction date first]
+question-11,Please go to Voucher List from Vouchers menu on AIS module to see all vouchers.
+question-12,"Please go to Contra voucher from Vouchers menu then entry Debit & credit account, amount & narration click to add and finally click to Save."
+question-13,Please go to Voucher List from voucher menu then click the Edit button on action column of the wrong voucher after correcting wrong entry click Save button again.
+question-14,"Please go to Receipt/payment/Journal voucher from Auto voucher menu, select Fund & Date then click Get Receipt/Payment/Journal Data then click to save."
+no_match,Sorry I am confused !!
